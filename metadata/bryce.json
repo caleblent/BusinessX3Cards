@@ -1,0 +1,40 @@
+{
+  "name": "Timothy Bryce",
+  "description": "Bryce's business card",
+  "image": "https://ipfs.io/ipfs/Qmc8P55SU65qGJ5CwTiChFGDGbCQXySz2AV2zowWN8KPKt",
+  "attributes": [
+    {
+      "trait_type": "Color",
+      "value": "pale nimbus white"
+    },
+    {
+      "trait_type": "Font Color",
+      "value": "black"
+    },
+    {
+      "trait_type": "Font Type",
+      "value": "Helvetica"
+    },
+    {
+      "trait_type": "Font Style",
+      "value": "raised lettering"
+    },
+    {
+      "trait_type": "Paper",
+      "value": "textured"
+    },
+    {
+      "trait_type": "Thickness",
+      "value": "normal"
+    },
+
+    {
+      "trait_type": "Watermark",
+      "value": false
+    },
+    {
+      "trait_type": "Misc",
+      "value": "You ain't seen nothing yet"
+    }
+  ]
+}

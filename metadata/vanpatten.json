@@ -1,0 +1,39 @@
+{
+  "name": "David Van Patten",
+  "description": "Van Patten's business card",
+  "image": "https://ipfs.io/ipfs/QmaoSMfnfy3UQ1dsMRPZJsW7ax9tjqUykbGveoHsVAcNEZ",
+  "attributes": [
+    {
+      "trait_type": "Color",
+      "value": "eggshell"
+    },
+    {
+      "trait_type": "Font Color",
+      "value": "black"
+    },
+    {
+      "trait_type": "Font Type",
+      "value": "Romalian"
+    },
+    {
+      "trait_type": "Font Style",
+      "value": "bold"
+    },
+    {
+      "trait_type": "Paper",
+      "value": "textured"
+    },
+    {
+      "trait_type": "Thickness",
+      "value": "normal"
+    },
+    {
+      "trait_type": "Watermark",
+      "value": false
+    },
+    {
+      "trait_type": "Misc",
+      "value": "That's nothing"
+    }
+  ]
+}

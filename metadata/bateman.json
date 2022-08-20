@@ -1,0 +1,39 @@
+{
+  "name": "Patrick Bateman",
+  "description": "Bateman's business card",
+  "image": "https://ipfs.io/ipfs/QmaunftNvLW3TN6iLkq43QECTk4kKAb3tMgCnhDE1PHtas",
+  "attributes": [
+    {
+      "trait_type": "Color",
+      "value": "bone"
+    },
+    {
+      "trait_type": "Font Color",
+      "value": "black"
+    },
+    {
+      "trait_type": "Font Type",
+      "value": "Silian Rail"
+    },
+    {
+      "trait_type": "Font Style",
+      "value": "letterpress imprinted"
+    },
+    {
+      "trait_type": "Paper",
+      "value": "plain"
+    },
+    {
+      "trait_type": "Thickness",
+      "value": "normal"
+    },
+    {
+      "trait_type": "Watermark",
+      "value": false
+    },
+    {
+      "trait_type": "Misc",
+      "value": "Picked em up from the printers yesterday"
+    }
+  ]
+}

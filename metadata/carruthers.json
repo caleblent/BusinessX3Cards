@@ -1,0 +1,39 @@
+{
+  "name": "Luis Carruthers",
+  "description": "Carruthers' business card",
+  "image": "https://ipfs.io/ipfs/QmbSbDBLH3mrv4UdWfXG7sDtvVcyxAaneTQMYje6t9P4h2",
+  "attributes": [
+    {
+      "trait_type": "Color",
+      "value": "white"
+    },
+    {
+      "trait_type": "Font Color",
+      "value": "green ink and gold foil"
+    },
+    {
+      "trait_type": "Font Type",
+      "value": "Edwardian Medium Plain"
+    },
+    {
+      "trait_type": "Font Style",
+      "value": "normal"
+    },
+    {
+      "trait_type": "Paper",
+      "value": "plain"
+    },
+    {
+      "trait_type": "Thickness",
+      "value": "normal"
+    },
+    {
+      "trait_type": "Watermark",
+      "value": false
+    },
+    {
+      "trait_type": "Misc",
+      "value": "I decided to get a new one, too"
+    }
+  ]
+}

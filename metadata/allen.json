@@ -1,0 +1,39 @@
+{
+  "name": "Paul Allen",
+  "description": "Allen's business card",
+  "image": "https://ipfs.io/ipfs/QmQbam6N5L8TsQPkcm9ZDyU499RU6jtfnEk1n5JKBfFHfD",
+  "attributes": [
+    {
+      "trait_type": "Color",
+      "value": "subtle off-white"
+    },
+    {
+      "trait_type": "Font Color",
+      "value": "black"
+    },
+    {
+      "trait_type": "Font Type",
+      "value": "Copperplate Gothic"
+    },
+    {
+      "trait_type": "Font Style",
+      "value": "normal"
+    },
+    {
+      "trait_type": "Paper",
+      "value": "normal"
+    },
+    {
+      "trait_type": "Thickness",
+      "value": "tasteful"
+    },
+    {
+      "trait_type": "Watermark",
+      "value": true
+    },
+    {
+      "trait_type": "Misc",
+      "value": ""
+    }
+  ]
+}
