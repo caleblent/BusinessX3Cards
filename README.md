@@ -18,16 +18,28 @@ https://rinkeby.etherscan.io/address/0x150d56350A27aE02cC63701B3714d44B07F16747
 
 The collection can be viewed on OpenSea at the following address: https://testnets.opensea.io/collection/businessx3cards
 
-# Sample Hardhat Project
+# Deploy/Mint with Hardhat
 
-This project demonstrates a basic Hardhat use case. It comes with a sample contract, a test for that contract, and a script that deploys that contract.
+This project was built with Hardhat.
 
-Try running some of the following tasks:
+To create another collection, the deploy script must be run
 
-```shell
-npx hardhat help
-npx hardhat test
-GAS_REPORT=true npx hardhat test
-npx hardhat node
-npx hardhat run scripts/deploy.js
 ```
+npx hardhat run scripts/deploy.js --network rinkeby
+```
+
+Once it runs successfully, the contract address should output to the terminal. This address is where the future NFTs can be minted.
+
+To mint NFTs on this address, put the card JSON data IPFS address into
+
+```
+await businessX3.mint(### HERE ###)
+```
+
+and then subsequently run
+
+```
+npx hardhat run scripts/mint.js --network rinkeby
+```
+
+The newly minted NFTs should show up on the Etherscan page. To view them on OpenSea, connect a MetaMask (or other provider) wallet to OpenSea, and you should see them there.
