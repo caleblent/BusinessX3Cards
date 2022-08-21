@@ -1,6 +1,8 @@
-# BusinessX3Cards (CARD) - Business Business Business Cards
+# BusinessX3Cards (CARD)
 
-This NFT collection contains an NFT listing the attributes and an image for 5 business cards shown in the horror/thriller movie "American Psycho", released in 2000, starring Christian Bale.
+**BusinessX3Cards** is an NFT collection that is shorthand for _Business Business Business Cards_, which is a satirical name for businessman jargon/acumen when conducting themselves and exchanging contacts.
+
+The collection contains an NFT with the image and attributes for each of the 5 business cards shown in the horror/thriller movie "American Psycho", released in 2000, starring Christian Bale.
 
 The first 4 cards, belonging to Patrick Bateman, David Van Patten, Timothy Bryce, and Paul Allen, respectively, appear in this 94 second clip: https://youtu.be/aZVkW9p-cCU
 
